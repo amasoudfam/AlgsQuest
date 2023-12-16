@@ -1,2 +1,2 @@
 # AlgsQuest
-My notes on Algorithms, Machine Learning, and Data Science
+My notes about Algorithms, Machine Learning, and Data Science
